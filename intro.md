@@ -1,16 +1,18 @@
 # WEB GIS WITH OPENSAUCE STACK
 
-Welcome to my blog series on WebGIS using open source tools and technologies and the Free and Open Source Software for Geospatial Applications(FOSS4G) Stack. This 7 section series aims to introduce you to WebGIS and some of the cool things you can pull off with it. It'll run the gamot from basic to some advanced operations using several WebGIS tools,technologies and frameworks. A WebGIS project would be implemented towards the end of the series to apply the knowledge gained. All resources used in this series could be found [in this GitHub](https://github.com/jeafreezy/WebGIS-with-Opensausce-Stack) repository. I do hope you have a lovely read and find this series helpful.
+Hi there,
+
+Welcome to my blog series on WebGIS using open source tools and technologies with the Free and Open Source Software for Geospatial Applications(FOSS4G) Stack. This 7 section series aims to introduce you to WebGIS and some of the cool things you can pull off with it. It'll run the gamot from basic to some advanced operations using several WebGIS tools,technologies and frameworks. A WebGIS project would be implemented towards the end of the series to apply the knowledge gained. All resources used in this series could be found [in this GitHub](https://github.com/jeafreezy/WebGIS-with-Opensausce-Stack) repository. I do hope you have a lovely read and find this series helpful.
 
 ## Table of Contents:
 
-### [Section 1: Introduction to GIS and WebGIS.](./section1.md)
+### [Section 1: Quick Introduction to GIS and WebGIS.](./section1.md)
 
-- What is GIS ?  
+- What is GIS ?
 - What is WebGIS ?  
 - Why FOSS4G ?
 
-### [Section 2: Overview of the tools,technolgies and frameworks for WebGIS.](./section2.md)
+### [Section 2: Overview of the tools,technologies and frameworks for WebGIS.](./section2.md)
 
 - Spatial Database
   - PostgreSQL/POSTGIS
