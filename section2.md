@@ -4,7 +4,8 @@ In the previous [section](./section1.md),we had a quick introduction on GIS and 
 We'll look at them categorically.
 
 - Spatial Database
-  - PostgreSQL/POSTGIS
+  - PostgreSQL/POSTGIS:
+  This is a spatial database...
 - Software clients
   - QGIS
 - Command line utilities
