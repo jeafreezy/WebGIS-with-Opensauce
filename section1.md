@@ -1,4 +1,4 @@
-# Quick Introduction to GIS and WebGIS
+# Section 1: Quick Introduction to GIS and WebGIS
 
 Welcome to the first section of this series on *WebGIS with Opensauce*. This section aims to give you a taste of the beauty of Geographic Information Systems(GIS) and Web GIS. At the end of this section, hopefully you would have an understanding of these terms and be able to explain in simpler and easy-to-digest terms to your friends and coworkers. Diving in  🏄🏻;
 

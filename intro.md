@@ -1,20 +1,20 @@
+# INTRO: WEB GIS WITH OPENSAUCE STACK
 
-## WEB GIS WITH OPEN SAUCE
+Hi there 👋,
 
-Hi there,
+Welcome to my blog series on WebGIS using open source tools and technologies with the Free and Open Source Software for Geospatial Applications(FOSS4G) Stack. This 10 somewhat long-section series aims to introduce you to the beauty of WebGIS and some of the cool things you can pull off with it especially with absolutely free tech stacks. It'll run the gamut from basic to advanced operations using several tools, technologies, and frameworks. A WebGIS project would be implemented towards the end of the series to apply the knowledge gained. All resources used in this series could be found [in this GitHub](https://github.com/jeafreezy/WebGIS-with-Opensauce) repository. You would also find a playlist for this series on my Youtube channel sometime in the future, kindly [subscribe](https://www.youtube.com/channel/UCdYaK054HlTq49qOJDTh2oA) and turn on post notification to be informed when it's released. I do hope you have a lovely read and find this series helpful.
 
-Welcome to my blog series on WebGIS using open source tools and technologies with the Free and Open Source Software for Geospatial Applications(FOSS4G) Stack. This 7 somewhat long-section series aims to introduce you to the beauty of WebGIS and some of the cool things you can pull off with it especially with absolutely free tech stacks. It'll run the gamut from basic to advanced operations using several tools, technologies, and frameworks. A WebGIS project would be implemented towards the end of the series to apply the knowledge gained. All resources used in this series could be found [in this GitHub](https://github.com/jeafreezy/WebGIS-with-Opensausce-Stack) repository. You would also find a playlist for this series on my Youtube channel sometime in the future, kindly [subscribe](https://www.youtube.com/channel/UCdYaK054HlTq49qOJDTh2oA) and turn on post notification to be informed when it's released. I do hope you have a lovely read and find this series helpful.
-
-_Disclaimer: This series does not aim to reinvent the wheel and thus would include links to several existing resources that explain a particular concept well, also, in no way does the open-source emphasis in this series makes me a hater of proprietary software. I wrote this based on the little experience I have acquired using these tools and with the sole goal of contributing to the knowledge space. My ultimate focus is on what gets the job done and not the tools battle._
+*_Disclaimer: This series does not aim to reinvent the wheel and thus would include links to several existing resources that explain a particular concept well, also, in no way does the open-source emphasis in this series makes me a hater of proprietary software. I wrote this based on the little experience I have acquired using these tools and with the sole goal of contributing to the knowledge space. My ultimate focus is on what gets the job done and not the tools battle._
+*
 ## Table of Contents:
 
-### [Section 1: Quick Introduction to GIS and WebGIS.]()
+### [Section 1: Quick Introduction to GIS and WebGIS.](https://jeafreezy.hashnode.dev/quick-introduction-to-gis-and-webgis-cki8iqqgh02a6hps15dgm5463)
 
 - What is GIS?
 - What is WebGIS?  
 - Why FOSS4G?
 
-### [Section 2: Overview of the tools, technologies, and frameworks for WebGIS.]()
+### [Section 2: Overview Of The Tools And Technologies For WebGIS.]()
 
 - Spatial Database
   - PostgreSQL/POSTGIS
@@ -23,7 +23,6 @@ _Disclaimer: This series does not aim to reinvent the wheel and thus would inclu
 - Command line utilities
   - GDAL/OGR(ogr2ogr,ogrinfo etc)
   - shp2pgsql
-  - psql
 - Middleware
   - Geoserver
   - Apache tomcat server
@@ -31,12 +30,11 @@ _Disclaimer: This series does not aim to reinvent the wheel and thus would inclu
 - Frontend Javascript libraries and frameworks.
   - Leaflet 
   - Mapbox GL
-  - turfjs
   - Openlayers
-  - **React JS**
 
 
-### [Section 3: Methodology workflow chart for a WebGIS and *Enterprise GIS*]()
+
+### [Section 3: WebGIS Architecture]()
 
 ### [Section 4: QGIS and the spatial Database(PostGIS) ]()
 
@@ -108,9 +106,8 @@ _Disclaimer: This series does not aim to reinvent the wheel and thus would inclu
 ### [Section 11: Bonus]()
 - Bonus
   - Python and GIS
-  - Django overview
-
-### REFERENCES
+  - Geo Django overview
+  - Google Earth Engine(GEE)
 
 
 
